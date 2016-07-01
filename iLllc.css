@@ -1,0 +1,30 @@
+* {
+  outline-color: black;
+  outline-style: dashed;
+}
+#head {
+  background-color: blue;;
+  width: auto;px;
+  margin: 10px auto;
+  padding: 10px;
+  border-width: 10px
+}
+#banner {
+  text-align: center; color: yellow;
+}
+#subhead {
+  width: 200px;
+  margin: 10px auto;
+  padding: 25px;
+  border-width: 10px
+}
+#subheadtext {
+  font-family: fantasy;
+  text-align: center;
+}
+#topDiv {
+  position: fixed-top;
+  top: 20px;
+  color: yellow:
+
+}
